@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmer_Buddy.DataAcess", "Farmer_Buddy.DataAcess\Farmer_Buddy.DataAcess.csproj", "{3E2EBE25-7B57-4B04-9808-38F427033608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmerBuddyBussinessLogic", "FarmerBuddyBussinessLogic\FarmerBuddyBussinessLogic.csproj", "{E448BF99-9F0C-48D1-9129-1327BFF75420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmerBuddy BusinessLogicTests", "FarmerBuddy BusinessLogicTests\FarmerBuddy BusinessLogicTests.csproj", "{E9C9825B-5743-4995-BEA2-E91F010E957A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmerBuddyAPI", "FarmerBuddyAPI\FarmerBuddyAPI.csproj", "{843568A9-BD36-4F28-9132-E4ED910FAB87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FarmerBuddyAngularClient", "FarmerBuddyAngularClient\FarmerBuddyAngularClient.csproj", "{C849D9DA-3F97-465D-832D-483157691B10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2EBE25-7B57-4B04-9808-38F427033608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2EBE25-7B57-4B04-9808-38F427033608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2EBE25-7B57-4B04-9808-38F427033608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2EBE25-7B57-4B04-9808-38F427033608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E448BF99-9F0C-48D1-9129-1327BFF75420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E448BF99-9F0C-48D1-9129-1327BFF75420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E448BF99-9F0C-48D1-9129-1327BFF75420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E448BF99-9F0C-48D1-9129-1327BFF75420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C9825B-5743-4995-BEA2-E91F010E957A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C9825B-5743-4995-BEA2-E91F010E957A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C9825B-5743-4995-BEA2-E91F010E957A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C9825B-5743-4995-BEA2-E91F010E957A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{843568A9-BD36-4F28-9132-E4ED910FAB87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843568A9-BD36-4F28-9132-E4ED910FAB87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843568A9-BD36-4F28-9132-E4ED910FAB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843568A9-BD36-4F28-9132-E4ED910FAB87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C849D9DA-3F97-465D-832D-483157691B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C849D9DA-3F97-465D-832D-483157691B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C849D9DA-3F97-465D-832D-483157691B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C849D9DA-3F97-465D-832D-483157691B10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44681BC4-891C-4B6F-BB69-24A3DC0E670A}
+	EndGlobalSection
+EndGlobal
